@@ -4,7 +4,7 @@
 This is a Python CLI tool that allows you to simulate banning a phone number (permanently or temporarily) Using the greatest Command easily on termux 
 
 
-## 📩 WhatsApp Support Email Targets
+## WhatsApp Ban  Targets
 
 This Tools Don't Work most Time but try it multiple times and it will work and please is for education purpose crypto Lord doesn't Support all of that thank you. 
 
@@ -21,8 +21,8 @@ pkg install python
 pkg install git
 pip install colorama 
 pip install python-dotenv
-git clone https://yourrepo.com/ban-tool.git
-cd ban-tool
+git clone https://github.com/CRYPTOLORD25/Crypto-banning-tools.git
+cd Crypto-banning-tools
 python ban.py
 ```
 
@@ -31,8 +31,8 @@ python ban.py
 ```bash
 sudo apt update && sudo apt install python3 python3-pip git
 pip3 install colorama python-dotenv
-git clone https://yourrepo.com/ban-tool.git
-cd ban-tool
+git clone https://github.com/CRYPTOLORD25/Crypto-banning-tools.git
+cd Crypto-bannig-tools
 python3 ban.py
 ```
 
