@@ -61,7 +61,7 @@ def banner():
 ⣴⣿⣿⣿⣿⣿⣿⣿⣠⣿⣿⡇⠀⠀⠀⠉⠛⣽⣿⣇⣀⣀⣀⠀
 ⠙⠻⠿⠿⠿⠿⠿⠟⠿⠿⠿⠇⠀⠀⠀⠀⠀⠻⠿⠿⠛⠛⠛
 """ + Style.RESET_ALL)
- print(f"{Fore.RED} Crypto Lord @2025 Arrived ") 
+ 
 def is_banned(number):
     if os.path.exists(perm_file):
         with open(perm_file, "r") as f:
